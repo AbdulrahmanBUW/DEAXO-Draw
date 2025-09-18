@@ -1,0 +1,10 @@
+C:\Users\v_kovalev\source\repos\CustomRevitCommand\CustomRevitCommand\bin\Debug\CustomRevitCommand.dll
+C:\Users\v_kovalev\source\repos\CustomRevitCommand\CustomRevitCommand\bin\Debug\CustomRevitCommand.pdb
+C:\Users\v_kovalev\source\repos\CustomRevitCommand\CustomRevitCommand\obj\Debug\CustomRevitCommand.csproj.AssemblyReference.cache
+C:\Users\v_kovalev\source\repos\CustomRevitCommand\CustomRevitCommand\obj\Debug\CustomRevitCommand.csproj.CoreCompileInputs.cache
+C:\Users\v_kovalev\source\repos\CustomRevitCommand\CustomRevitCommand\obj\Debug\CustomRevitCommand.dll
+C:\Users\v_kovalev\source\repos\CustomRevitCommand\CustomRevitCommand\obj\Debug\CustomRevitCommand.pdb
+C:\Users\v_kovalev\source\repos\CustomRevitCommand\CustomRevitCommand\bin\Debug\Icons\AutoDimension16.png
+C:\Users\v_kovalev\source\repos\CustomRevitCommand\CustomRevitCommand\bin\Debug\Icons\AutoDimension32.png
+C:\Users\v_kovalev\source\repos\CustomRevitCommand\CustomRevitCommand\bin\Debug\Icons\DimensionChain16.png
+C:\Users\v_kovalev\source\repos\CustomRevitCommand\CustomRevitCommand\bin\Debug\Icons\DimensionChain32.png

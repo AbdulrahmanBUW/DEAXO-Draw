@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+	<AddIn Type="Application">
+		<FullClassName>CustomRevitCommand.CustomApplication</FullClassName>
+		<ClientId>A1B2C3D4-E5F6-7890-ABCD-123456789012</ClientId>
+		<Name>Auto-Dimension Command</Name>
+		<Assembly>CustomRevitCommand.dll</Assembly>
+		<VendorId>DEAXO</VendorId>
+		<VendorDescription>Auto-Dimension Tool for Revit</VendorDescription>
+	</AddIn>
+</RevitAddIns>
