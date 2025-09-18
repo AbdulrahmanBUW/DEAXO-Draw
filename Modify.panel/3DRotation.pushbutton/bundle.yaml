@@ -1,0 +1,8 @@
+title: 3DRotation
+tooltip: Rotate object in any direction.
+author: "DEAXO GmbH"
+
+engine:
+  clean: true
+  full_frame: true
+  persistent: true
