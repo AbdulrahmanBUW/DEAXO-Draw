@@ -1,8 +1,0 @@
-title:
-  en_us: Modify
-layout:
-  - 3DRotation
-  - MakeParallel
-  - AutoDimension
-  - AutoElevation
-  - AutoSection
